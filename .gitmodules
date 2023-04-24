@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Kmohakumar/backend
+[submodule "TB-FrontEnd"]
+	path = TB-FrontEnd
+	url = https://github.com/Kmohakumar/TB-FrontEnd
